@@ -6,6 +6,12 @@
 
 Vani-TTS is a fast, GPU-powered Text-to-Speech (TTS) tool for Hindi and Gujarati. It uses Facebook's MMS-TTS models and is built for speed. On good hardware, it can run as fast as 0.02–0.05 Real-Time Factor (RTF).
 
+## 🎥 Demo
+
+[![Vani-TTS Demo](demo.png)](https://youtu.be/y3T41Q-o10c?feature=shared)
+
+*Click the image above to watch the demo video*
+
 ---
 
 ## 🌟 Features
