@@ -28,7 +28,7 @@ Follow these steps to install Vani-TTS:
 * **NVIDIA GPU Users**:
     * CUDA Toolkit: Version 12.6 or higher.
     * Compatible NVIDIA drivers.
-* **Internet Connection**: Required for initial model downloads (~1-2GB per language) and dependencies.
+* **Internet Connection**: Required for initial model downloads (The approximate total size for both models is 300MB.) and dependencies.
 
 ### 2. Install UV Package Manager (Recommended)
 
