@@ -23,7 +23,7 @@ Follow these steps to install Vani-TTS:
 
 ### 1. Prerequisites
 
-* **Python**: 3.8 or higher (3.11+ recommended for optimal performance).
+* **Python**: 3.9 or higher (3.11+ recommended for optimal performance).
 * **System Memory**: 8GB RAM minimum; 16GB+ strongly recommended.
 * **NVIDIA GPU Users**:
     * CUDA Toolkit: Version 12.6 or higher.
