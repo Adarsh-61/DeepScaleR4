@@ -1,0 +1,18 @@
+# Core ML and TTS libraries
+transformers
+torch
+torchaudio
+gradio
+numpy
+scipy
+psutil
+hf-xet
+
+# GPU-specific libraries (Uncomment if you have GPU support or if the code is not working.)
+#torch-tensorrt 
+#pynvml  
+#nvidia-ml-py 
+
+# Optional optimization libraries
+#accelerate 
+#optimum  
